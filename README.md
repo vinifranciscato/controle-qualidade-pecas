@@ -92,7 +92,7 @@ python --version
 Na página do repositório no GitHub, clique em **Code → Download ZIP** e extraia a pasta. Ou, com Git:
 
 ```
-git clone <link-do-repositório>
+git clone https://github.com/vinifranciscato/controle-qualidade-pecas.git
 ```
 
 ### 3. Abrir a pasta no VS Code
@@ -235,6 +235,7 @@ Dados carregados de dados_pecas.json: 2 peça(s) e 1 caixa(s).
 | `pecas_exemplo.csv` | planilha com 14 peças para testar a opção 6 |
 | `requirements.txt` | biblioteca necessária para a opção 6 |
 | `dados_pecas.json` | criado pelo programa ao salvar; guarda as peças e as caixas |
+| `Trabalho-Controle-Qualidade-Vinicius-Franciscato.pdf` | parte teórica do trabalho, com os prints da execução |
 
 ## Tecnologias
 
@@ -246,4 +247,4 @@ Dados carregados de dados_pecas.json: 2 peça(s) e 1 caixa(s).
 
 **Vinícius Franciscato** - RA 254086
 Algoritmos e Lógica de Programação - UniFECAF
-Vídeo de apresentação: *[link a incluir]*
+Vídeo de apresentação: https://youtu.be/lqdcI4ug2rE
